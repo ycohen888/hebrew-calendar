@@ -1,0 +1,7 @@
+# Public product page + releases only (no application source).
+*
+!.gitignore
+!README.md
+!LICENSE
+!assets/
+!assets/**
