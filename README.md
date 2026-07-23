@@ -123,4 +123,4 @@ Contact: [servxx.com](https://servxx.com) · ycohen888@gmail.com · 051-5001481
 
 ---
 
-© יוסי כהן / [servxx.com](https://servxx.com) · לוח עברי v1.0.0
+© יוסי כהן / [servxx.com](https://servxx.com) · לוח עברי v1.0.3
